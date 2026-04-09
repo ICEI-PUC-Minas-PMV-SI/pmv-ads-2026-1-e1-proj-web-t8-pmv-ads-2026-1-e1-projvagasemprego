@@ -6,7 +6,7 @@
 
 `1º Semestre`
 
-[Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.]
+Esta plataforma centraliza o recrutamento em cidades de pequeno porte, conectando empresas locais a profissionais qualificados por meio de um sistema digital de "matching". O objetivo é eliminar a dependência de indicações informais, agilizando o preenchimento de vagas e impulsionando o desenvolvimento econômico regional.
 
 ## Integrantes
 
