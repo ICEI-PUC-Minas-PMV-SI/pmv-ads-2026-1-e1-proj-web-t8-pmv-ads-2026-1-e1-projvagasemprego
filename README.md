@@ -4,7 +4,7 @@
 
 `Desenvolvimento de aplicação web front-end`
 
-`1º Semestre`
+`1º Semestre/2026`
 
 Esta plataforma centraliza o recrutamento em cidades de pequeno porte, conectando empresas locais a profissionais qualificados por meio de um sistema digital de "matching". O objetivo é eliminar a dependência de indicações informais, agilizando o preenchimento de vagas e impulsionando o desenvolvimento econômico regional.
 
