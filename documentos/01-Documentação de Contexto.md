@@ -9,12 +9,9 @@ O projeto propõe a criação de uma plataforma de intermediação adaptada a es
 
 ## Problema
 
-qualificados ou de cargos disponíveis, mas na invisibilidade recíproca entre MPEs e trabalhadores em busca de recolocação. Essas organizações recorrem quase exclusivamente a indicações informais (“boca a boca”), o que restringe drasticamente o alcance de A principal barreira no mercado de trabalho local não está na ausência de profissionais busca e dificulta encontrar perfis que combinem exatamente com os requisitos específicos da função.
+A principal barreira no mercado de trabalho local não está na ausência de profissionais qualificados ou de vagas cargos disponíveis, mas na invisibilidade recíproca entre empresas MPEs e candidatostrabalhadores em busca de recolocação. Essas mpresas de pequeno e médio porte organizações recorrem quase exclusivamente a indicações informais (“boca a boca”), o que restringe drasticamente o alcance de A principal barreira no mercado de trabalho local não está na ausência de profissionais busca e dificulta encontrar perfis que combinem exatamente com os requisitos específicos da vagafunção.
 
-Da mesma forma, os trabalhadores enfrentam obstáculos significativos na procura por vagas compatíveis. Muitos possuem cursos, habilidades técnicas ou experiências profissionais relevantes que permanecem desconhecidas do mercado local. Sem um canal centralizado de divulgação e recrutamento, o indivíduo interessado se restringe a ações ineficientes, como entregar currículos de porta em porta, na esperança de que o documento chegue ao recrutador exatamente no momento em que surge uma oportunidade compatível.
-
-
-
+Da mesma forma, os trabalhadores enfrentam obstáculos significativos na procura por oportunidadesvagas compatíveis. Muitos possuem cursos, habilidades técnicas ou experiências profissionais relevantes que permanecem desconhecidas do mercado local. Sem um canal centralizado de divulgação e recrutamento, o candidato indivíduo interessado se restringe a ações ineficientes, como entregar currículos de porta em porta, na esperança de que o documento chegue ao recrutador exatamente no momento em que surge uma oportunidade compatível.
 
 
 ## Objetivos
