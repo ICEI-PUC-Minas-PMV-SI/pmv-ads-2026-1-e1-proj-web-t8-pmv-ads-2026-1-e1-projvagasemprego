@@ -1,12 +1,31 @@
 # Template padrão da Aplicação
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+Este template padrão será utilizado em todas as páginas do site. Ele define a identidade visual, aspectos de responsividade e a iconografia do projeto.
 
-[Apresente a estrutura padrão da sua aplicação.]
+## Estrutura Padrão da Aplicação 
 
-> **Links Úteis**:
+- HTML: A estrutura do site será criada utilizando HTML5, seguindo as melhores práticas de semântica e acessibilidade.
+- CSS: O design e o layout das páginas serão estilizados com CSS, aplicando cores e fontes de forma consistente. O foco será em responsividade, garantindo que o layout se adapte a diferentes tamanhos de tela (mobile, tablet e desktop).
+- JavaScript: O comportamento interativo do site será implementado com JavaScript, como a manipulação de formulários e interações do usuário, visando melhorar a experiência de navegação.
+
+## Informações de Estilo
+
+### Font-family:
+- Arial, Helvetica, sans-serif (para textos gerais)
+- Cursive (para elementos de destaque, como títulos ou citações)
+### Font-size:
+- 12px (para textos pequenos ou descrições)
+- 15px (para parágrafos normais)
+- 28px (para títulos e subtítulos)
+- 48px (para títulos principais ou grandes destaques)
+- Cores (RGB):
+- Azul: rgb(0, 140, 255) - Usado para links, botões e destaques.
+- Verde: rgb(25, 166, 63) - Usado para botões de ação positiva (ex: "Enviar", "Confirmar").
+- Branco: rgb(255, 255, 255) - Fundo principal e textos claros.
+- Preto: rgb(0, 0, 0) - Texto principal e cabeçalhos.
+
+## Links Úteis:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+> - [w3schools](https://www.w3schools.com/html/)
+> - [MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
