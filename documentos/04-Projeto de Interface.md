@@ -2,6 +2,13 @@
 
 # PROJETO DE INTERFACE — UAITRAMPO
 
+O sistema foi projetado com foco em acessibilidade digital, priorizando usuários com baixa familiaridade com tecnologia, através de:
+
+- Interface simplificada
+- Redução de etapas
+- Uso de linguagem clara
+- Botões grandes e intuitivos
+
 ## User Flow
 
 O fluxo de usuário (User Flow) do sistema Uaitrampo foi projetado com foco em simplicidade e facilidade de uso, considerando usuários com pouco conhecimento tecnológico.
@@ -174,12 +181,6 @@ Status:
 >> - [Figma](https://www.figma.com/)
 >>
 
-O sistema foi projetado com foco em acessibilidade digital, priorizando usuários com baixa familiaridade com tecnologia, através de:
-
-- Interface simplificada
-- Redução de etapas
-- Uso de linguagem clara
-- Botões grandes e intuitivos
 
 
 
