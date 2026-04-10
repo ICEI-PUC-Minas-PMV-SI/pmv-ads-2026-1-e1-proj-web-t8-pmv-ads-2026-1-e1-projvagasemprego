@@ -1,5 +1,3 @@
-[UaiTrampo.pdf](https://github.com/user-attachments/files/26618378/UaiTrampo.pdf)
-
 # PROJETO DE INTERFACE — UAITRAMPO
 
 O sistema foi projetado com foco em acessibilidade digital, priorizando usuários com baixa familiaridade com tecnologia, através de:
